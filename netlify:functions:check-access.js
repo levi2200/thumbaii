@@ -1,7 +1,0 @@
-{
-  "name": "thumbai-functions",
-  "version": "1.0.0",
-  "dependencies": {
-    "@supabase/supabase-js": "^2.39.0"
-  }
-}
